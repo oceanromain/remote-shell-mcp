@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "remote-shell": {
+      "type": "http",
+      "url": "http://B机器IP:8080/mcp",
+      "description": "SSH/Telnet 远程设备连接与命令执行"
+    }
+  }
+}
