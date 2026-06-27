@@ -16,8 +16,7 @@ mcp-remote-shell/
 │   ├── ssh_handler.py         # SSH 连接处理器
 │   ├── telnet_handler.py      # Telnet 连接处理器
 │   └── connection_manager.py  # 会话管理
-├── config/
-│   └── openclaw_mcp_config.json  # openclaw 配置示例
+│── openclaw_mcp_config.json  # openclaw 配置示例
 ├── logs/                      # 运行日志（自动创建）
 ├── pyproject.toml             # uv 项目配置 & 依赖
 ├── install.bat                # 一键安装
